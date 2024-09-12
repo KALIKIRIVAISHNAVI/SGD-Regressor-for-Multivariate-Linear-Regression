@@ -20,12 +20,12 @@ Step 5: Predict on test data, inverse transform the results, and calculate the m
 
 Step 6: End
 ## Program:
-```
+
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: KALIKIRI VAISHNAVI
 RegisterNumber:212223040081
-
+```
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
